@@ -1,0 +1,15 @@
+{
+  "name": "client-soap-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BrenoLopez/client-soap-nodejs.git",
+  "author": "<breno_lopes_10@yahoo.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "soap": "^0.30.0"
+  },
+  "scripts": {
+    "dev": "nodemon src"
+  }
+}
